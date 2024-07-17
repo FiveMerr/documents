@@ -45,6 +45,7 @@ if service == 'fivemerr' then
                 resource = cache.resource,
                 metadata = {
                     event = event,
+                    playerid = source,
                     tags = formatTags(source, ... and string.strjoin(',', string.tostringall(...)) or nil),
                 }
             }
