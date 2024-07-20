@@ -1,2 +1,0 @@
-# 📸 power\_dashcams
-

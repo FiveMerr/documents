@@ -1,4 +1,4 @@
-# 🚓 ps-mdt
+# 🦥 ps-mdt
 
 Make sure to use version 2.7.0 or higher.
 

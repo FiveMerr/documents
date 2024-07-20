@@ -1,2 +1,0 @@
-# 👮 MDT Scripts
-
