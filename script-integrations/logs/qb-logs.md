@@ -2,7 +2,9 @@
 
 logs.lua
 
-replace ```RegisterNetEvent('qb-log:server:CreateLog'``` in ```qb-smallresources/server/logs.lua``` with the code above
+replace ```RegisterNetEvent('qb-log:server:CreateLog'``` in ```qb-smallresources/server/logs.lua```
+
+With Below Code Here
 
 ```lua
 RegisterNetEvent('qb-log:server:CreateLog', function(name, title, color, message, tagEveryone, imageUrl)
