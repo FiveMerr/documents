@@ -41,3 +41,4 @@
   * [ℹ️ ox\_logs](script-integrations/logs/ox\_logs.md)
   * [ℹ️ qb-logs](script-integrations/logs/qb-logs.md)
   * [ℹ️ JD\_Logs](script-integrations/logs/jd\_logs.md)
+* [📸 power\_dashcams](script-integrations/power\_dashcams.md)
