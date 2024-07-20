@@ -48,5 +48,5 @@ set FIVEMERR_API_KEY "API KEY HERE"
 config.lua
 
 ```
-Config.Logging = 'fivemerr'                                   -- fivemanage, fivemerr
+Config.Logging = 'fivemerr'
 ```
