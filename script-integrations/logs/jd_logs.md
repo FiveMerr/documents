@@ -6,16 +6,21 @@ description: >-
 
 # ℹ️ fm-logs
 
+🤓 FiveM Logger by Fivemerr
+
 A logging resource for your FiveM server that logs directly to [Fivemerr's](https://fivemerr.com/) api.
 
-Download: [https://github.com/FiveMerr/fm-logs](https://github.com/FiveMerr/fm-logs)
-
-### Requirements
+## Requirements
 
 * FXServer With at least build: `5562`
 * [screenshot-basic](https://github.com/citizenfx/screenshot-basic)
 
-### Features
+## Installation
+
+* Add your Fivemer Logs API Key on `server > main.lua` line 2.
+* Configure your framework or standalone on `shared > config.lua` line 8.
+
+## Features
 
 * Chat Logs
 * Join Logs
@@ -29,7 +34,11 @@ Download: [https://github.com/FiveMerr/fm-logs](https://github.com/FiveMerr/fm-l
 * TxAdmin Logs
 * Screenshot Logs
 
-### Custom Logging
+## Preview
+
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+## Custom Logging
 
 You may use `fm-logs` to leverage custom reporting to Fivemerr by using the following export function:
 
@@ -47,7 +56,7 @@ exports['fm-logs']:createLog({
 
 The export can be used on both server and client sides.
 
-### Note
+## Framework Support
 
 This logger does not require a framework, however, if you use QBCore or ESX, you can set these in the config to display the player's character name in the logs on Fivemerr. Setting a framework will also enable the "playerConnected" log in the spawn logs as it will listen to the player loaded event based on the framework specified.
 
@@ -57,8 +66,7 @@ Framework = "qb", -- "qb" | "esx" | "standalone"
 
 If you do not use a framework, simply set this to "standalone".
 
-### Credit
+## Credits
 
 * [iratetech](https://github.com/ir8scripts)
 * [JD\_logsV3](https://github.com/JohnnyS/JD\_logsV3)
-
