@@ -9,7 +9,7 @@ This feature is available from version 2.5.0 or higher.
     Upload.ServiceUsed = 'fivemerr'
     ```
    
-2. Create a video-only token and place it in the `Upload.Token` field in `server/upload_config.lua`:
+2. Create a `Videos Only` token and place it in the `Upload.Token` field in `server/upload_config.lua`:
     ```lua
     Upload.Token = 'YOUR_TOKEN'
     ```
