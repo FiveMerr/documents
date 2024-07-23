@@ -1,11 +1,17 @@
-# 📷 Spy Bodycam 
+# 📷 Spy Bodycam
 
-This feature is only avaialble from version 2.5.0 or Higher
+This feature is available from version 2.5.0 or higher.
 
-Steps: 
-1. Set Upload.ServiceUsed = 'fivemerr' in server/upload_config.lua
-2. Create a Video Only token and place it in Upload.Token
-```lua
-Upload.ServiceUsed = 'fivemerr' 
-Upload.Token = 'YOUR_TOKEN'
-```
+## Steps:
+
+1. Set the upload service to 'fivemerr' in `server/upload_config.lua`:
+    ```lua
+    Upload.ServiceUsed = 'fivemerr'
+    ```
+   
+2. Create a video-only token and place it in the `Upload.Token` field in `server/upload_config.lua`:
+    ```lua
+    Upload.Token = 'YOUR_TOKEN'
+    ```
+
+Once you have completed these steps, the configuration is finished.
