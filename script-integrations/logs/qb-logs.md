@@ -13,7 +13,6 @@ RegisterNetEvent('qb-log:server:CreateLog', function(name, title, color, message
     
     if Config.Logging == "fivemerr" then
         local embedData = {
-            {
                 level = tagEveryone and 'warn' or 'info',
                 message = title .. " - " .. message,
                 resource = "qb-logs",
@@ -21,7 +20,6 @@ RegisterNetEvent('qb-log:server:CreateLog', function(name, title, color, message
                     image = imageUrl,
                     playerId = source,
                 }
-            }
         }
 
         local apiKey = GetConvar('FIVEMERR_API_KEY', 'false')
