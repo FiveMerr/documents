@@ -9,20 +9,19 @@ Backups for all regular members are every 4 days and have a max of 2 backups all
 {% hint style="info" %}
 #### Name:
 
-Enter a memorable name for your reference, such as the name of your RP server.
+Enter a memorable name for your reference, such as the name of your RP server.\
 
-####
 
 #### MySQL Host:
 
-This is the IP address of the server where your database is hosted (where XAMPP or MySQL is installed).
+This is the IP address of the server where your database is hosted (where XAMPP or MySQL is installed).\
 
-####
 
 #### MySQL Port:
 
 The default port is usually 3306, but you may have a custom port. You need to open this port in your firewall to allow the connection. For instructions on how to open your ports, you can visit this article. Ensure you open port 3306 for TCP incoming only.
 
+\
 **IMPORTANT:** **DO NOT** open your ports without adding a password to your database, as this will allow anyone to log into your database.
 {% endhint %}
 
