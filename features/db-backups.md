@@ -34,7 +34,8 @@ You can typically find the MySQL user in the `mysql_connection_string` section o
 {% endhint %}
 
 {% hint style="danger" %}
-Your database password. If it is currently unset (no password), you need to set a password for security reasons.
+MySQL Password: \
+If it is currently unset (no password), you need to set a password for security reasons.
 
 
 
