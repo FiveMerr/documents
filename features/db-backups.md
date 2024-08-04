@@ -60,10 +60,10 @@ FLUSH PRIVILEGES;
 ```
 
 \
-If this is for FiveM, your `server.cfg` should then be updated to include the following line with your new password.&#x20;
+If this is for FiveM, your `server.cfg` should then be updated to include the following line with your new password and your database name.
 
 ```sql
-set mysql_connection_string "mysql://root:MyNewPasswordGoesHere@localhost/QBCoreFramework_6EA45D?charset=utf8mb4"
+set mysql_connection_string "mysql://root:MyNewPasswordGoesHere@localhost/YourDataBaseNameHere?charset=utf8mb4"
 ```
 {% endhint %}
 
