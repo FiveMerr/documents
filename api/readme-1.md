@@ -13,4 +13,4 @@ description: >-
 5. Click on "Create" button.
 6. Copy the API Token.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Token Creation Dialog</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Token Creation Dialog</p></figcaption></figure>

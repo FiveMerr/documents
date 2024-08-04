@@ -14,6 +14,7 @@
 
 ## Features
 
+* [🔄 DB Backups](features/db-backups.md)
 * [🔉 Media](features/media.md)
 * [📭 API Tokens](features/api-tokens.md)
 * [💻 Servers](features/servers.md)
