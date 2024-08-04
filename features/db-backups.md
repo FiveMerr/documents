@@ -9,13 +9,11 @@ Backups for all regular members are every 4 days and have a max of 2 backups all
 {% hint style="info" %}
 #### Name:
 
-Enter a memorable name for your reference, such as the name of your RP server.\
-
+Enter a memorable name for your reference, such as the name of your RP server.
 
 #### MySQL Host:
 
-This is the IP address of the server where your database is hosted (where XAMPP or MySQL is installed).\
-
+This is the IP address of the server where your database is hosted (where XAMPP or MySQL is installed).
 
 #### MySQL Port:
 
