@@ -1,10 +1,10 @@
 # 🔄 DB Backups
 
-Follow the instructions below to backup your database. You need to gather your details for your database and server details.&#x20;
+Follow the instructions below to backup your database. You need to gather your details for your database and server details. \
+\
+Backups for all regular members are every 4 days and have a max of 2 backups all together.&#x20;
 
 ## Backup Settings
-
-
 
 {% hint style="info" %}
 #### Name:
