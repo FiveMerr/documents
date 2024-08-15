@@ -1,5 +1,7 @@
 # ℹ️ ox\_logs
 
+Download the snippet here [Fivemerr's OX LIB](https://github.com/ItsTrapson/ox_lib-fivemerr)
+
 Thanks to trapson for the snippet.
 
 Add the below snippet on:
@@ -58,7 +60,10 @@ Add this to your server.cfg with your Logs API KEY.&#x20;
 
 ```
 set ox:logger "fivemerr"
+# Get the key from API Tokens on Fivemerr Panel
 set fivemerr:key "API KEY HERE"
+# Logging via ox_lib (0: Disable, 1: Standard, 2: Include AddItem/RemoveItem, and all shop purchases)
+set inventory:loglevel 2
 ```
 
 Preview:
