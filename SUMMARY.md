@@ -46,4 +46,5 @@
   * [🦥 ps-camera](script-integrations/project-sloth/ps-camera.md)
 * [💪 Power Scripts](script-integrations/power-scripts/README.md)
   * [💪 power\_dashcams](script-integrations/power-scripts/power\_dashcams.md)
-* [📹 spy-bodycam](script-integrations/spy-bodycam.md)
+* [📹 Spy Scripts](script-integrations/spy-scripts/README.md)
+  * [📹 spy-bodycam](script-integrations/spy-scripts/spy-bodycam.md)
