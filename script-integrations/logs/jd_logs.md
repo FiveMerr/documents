@@ -10,6 +10,12 @@ description: >-
 
 A logging resource for your FiveM server that logs directly to [Fivemerr's](https://fivemerr.com/) api.
 
+
+
+## Download
+
+[GitHub](https://github.com/FiveMerr/fm-logs)
+
 ## Requirements
 
 * FXServer With at least build: `5562`
@@ -69,4 +75,4 @@ If you do not use a framework, simply set this to "standalone".
 ## Credits
 
 * [iratetech](https://github.com/ir8scripts)
-* [JD\_logsV3](https://github.com/JohnnyS/JD\_logsV3)
+* [JD\_logsV3](https://github.com/JohnnyS/JD_logsV3)
