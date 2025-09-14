@@ -16,6 +16,10 @@ A logging resource for your FiveM server that logs directly to [Fivemerr's](http
 
 [GitHub](https://github.com/FiveMerr/fm-logs)
 
+## Readme
+
+[Readme](https://github.com/FiveMerr/fm-logs/blob/main/README.md)
+
 ## Requirements
 
 * FXServer With at least build: `5562`
@@ -23,7 +27,7 @@ A logging resource for your FiveM server that logs directly to [Fivemerr's](http
 
 ## Installation
 
-* Add your Fivemer Logs API Key on `server > main.lua` line 2.
+* Add your Fivemer Logs API Key in `server.cfg` here `set fivemerr:apiToken "token"`.
 * Configure your framework or standalone on `shared > config.lua` line 8.
 
 ## Features
